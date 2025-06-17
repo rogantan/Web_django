@@ -7,4 +7,4 @@ def index(request):
 
 
 def about(request):
-    return render(request, 'main/about.html')
+    return render(request, 'main/about.html', {'text': 'Студент ВКИ НГУ и участник основного обучения в School 21'})
