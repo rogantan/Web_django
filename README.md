@@ -1,1 +1,1 @@
-###My first Django web-application
+# My first Django web-application
